@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "BSD-2-Clause",
   "type": "commonjs",
   "dependencies": {
     "as3js": "^0.3.3"
