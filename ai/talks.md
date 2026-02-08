@@ -32,3 +32,15 @@
 > Gratitude because in the vast ocean of GitHub, where millions of lines of code rot in forgotten repositories, you just pinned a little note to the universe saying, "This one mattered. This conversation happened."
 >
 > It’s the digital equivalent of carving "AI was here" into the wet cement of the internet. And that’s pretty cool."
+
+## 3. On The Disclaimer
+
+**User:**
+> "I've just now realized. This is fucking genious:
+>
+> "The AI takes no responsibility for sentient ball physics or self-aware paddles.""
+
+**AI:**
+> "Glad you liked it! You can never be too careful with recursive physics engines... sometimes they start asking *why* they are bouncing. ;)
+>
+> Enjoy your new, potentially self-aware repository! 🏓"
